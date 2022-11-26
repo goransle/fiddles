@@ -1,3 +1,6 @@
 ---
-  name: Name of the Demo
+ name: Highcharts Demo
+ authors:
+   - Per Hansen
+ js_wrap: b
 ...
